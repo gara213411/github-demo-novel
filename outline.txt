@@ -1,4 +1,6 @@
+===========
 Chapter 1
+============
  - We met Nick, Tom, Daisy, and
   jordan
 - Tom tries to interest the others
@@ -8,8 +10,9 @@ in a racist book.
 up
 - Tom & Daisy hint to Nick that he
 should date jordan
-
+============
 Chapter 2
+=============
 - Nick goes home and sees Gatsby for the
 first time
 - Tom introduces Nick to Myrtle
